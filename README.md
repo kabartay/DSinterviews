@@ -2,7 +2,7 @@
 Sources for successfull Data Science interviews preparation.    
 
 * **Links**  
-[160 Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by [Alexey Grigorev](https://alexeygrigorev.com/) | [list](https://medium.com/data-science-insider/160-data-science-interview-questions-14dbd8bf0a08) | Real cases!  
+[160 Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by [Alexey Grigorev](https://alexeygrigorev.com/) | [list](https://medium.com/data-science-insider/160-data-science-interview-questions-14dbd8bf0a08) | Real cases!  
 [120 Data Science Interview Q&A](https://github.com/kojino/120-Data-Science-Interview-Questions) by [Kojin Oshiba](https://kojinoshiba.com/)  
 [120 Data Science Interview Q&A](https://github.com/JifuZhao/120-DS-Interview-Questions) by [Jifu Zhao](https://github.com/JifuZhao)  
 [100 Data Science Interview Q&A](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/)  
