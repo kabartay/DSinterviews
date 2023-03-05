@@ -20,5 +20,3 @@ Sources for successfull Data Science interviews preparation.
 
 * **Documents**  
 [1000 essential Data Science Questions and Answers](https://github.com/kabartay/DSinterviews/blob/3e9241cbad831aa90eb55bb303c1bb7794f7a061/1000_DS_interviews.pdf) by [Steve Nouri](https://www.linkedin.com/in/stevenouri/)
-
-Kaggle discussion [**here**](https://www.kaggle.com/getting-started/211857)  
